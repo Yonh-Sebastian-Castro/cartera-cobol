@@ -1,0 +1,10 @@
+# Archivos generados por el compilador COBOL
+*.exe
+*.o
+*.int
+*.idy
+*.lst
+*.log
+
+# Salidas generadas
+data/LISTADO.DET
